@@ -1,6 +1,6 @@
 # T1 LED发光实验
 ## 实验信息
-- 提交Git编号：待本次提交完后填写
+- 提交Git编号：ad2498b
 - 芯片：STM32F103C8T6（蓝药丸开发板）
 - 软件：STM32CubeMX + STM32CubeIDE
 
